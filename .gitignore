@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.html
+dump/
+*_cache/
+*_files/
+acquisition_uzh.Rproj
+aquisition.csv
+stanmodel
